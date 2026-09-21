@@ -1,5 +1,5 @@
 # Interactive dashboard for visualization and analysis
-=======
+
 # Airline Insights Dashboard
 
 An interactive Power BI project that transforms airline booking, passenger, and flight data into a clear operational dashboard. The report explores airline popularity, flight punctuality, customer booking behavior, and destination demand while demonstrating data preparation, modeling, DAX, interactive filtering, publishing, and row-level security.
