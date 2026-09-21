@@ -126,4 +126,3 @@ The supplied project archive contains a PDF walkthrough of the report. To make t
 
 **Simrat Kaur Khalsa**
 
->>>>>>> d30a446 (Initial commit: Airline Insights Power BI dashboard)
