@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# airline_performance_analysis
-Interactive dashboard for visualization and analysis
+# Interactive dashboard for visualization and analysis
 =======
 # Airline Insights Dashboard
 
